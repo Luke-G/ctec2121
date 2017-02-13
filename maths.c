@@ -29,6 +29,6 @@ int main()
 	printf("Subtract: %d\n", subtract(1, 1));
 	printf("Multiply: %d\n", multiply(2, 2));
 	printf("Division: %d\n", divide(10, 2));
-
+	printf("Remainder: %d\n", remainder(5, 3));
 	return 0;
 }
